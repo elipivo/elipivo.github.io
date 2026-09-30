@@ -1,8 +1,11 @@
 project:
   type: website
+  resources:
+    - CNAME
 
 website:
   title: "elipivo.github.io"
+  site-url: "https://elijahpivo.com"
   navbar:
     left:
       - href: index.qmd
