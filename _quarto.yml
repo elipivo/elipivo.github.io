@@ -4,7 +4,7 @@ project:
     - CNAME
 
 website:
-  title: "elipivo.github.io"
+  title: "Elijah Pivo"
   site-url: "https://elijahpivo.com"
   navbar:
     left:

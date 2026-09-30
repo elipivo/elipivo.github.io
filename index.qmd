@@ -1,5 +1,5 @@
 ---
-title: "elipivo.github.io"
+title: "Elijah Pivo"
 ---
 
 This is a Quarto website.
