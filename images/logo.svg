@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 816 1056"
+   height="1056"
+   width="816"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path16"
+         d="M 0,792 H 612 V 0 H 0 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1056)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14"><g
+           transform="translate(348.915,489.7632)"
+           id="g20"><path
+             id="path22"
+             style="fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c -4.538,0 -9.336,-4.033 -9.336,-8.643 v -129.172 c 0,-9.831 -6.365,-13.092 -12.275,-13.092 -6.069,0 -11.355,3.621 -11.355,10.968 V 62.408 c 0,5.13 -4.167,10.26 -9.949,10.26 -4.642,0 -9.949,-4.819 -9.949,-9.793 v -163.274 c 0,-6.914 -5.364,-10.176 -11.355,-10.176 -5.91,0 -12.275,3.262 -12.275,13.093 V 31.69 c 0,4.609 -4.798,8.643 -9.336,8.643 -5.466,0 -9.63,-3.746 -9.63,-8.051 V -101.12 c 0,-25.927 26.233,-27.944 36.066,-27.944 2.153,0 6.53,-1.765 6.53,-5.474 v -92.528 c 2.935,1.678 6.325,2.651 9.949,2.651 3.623,0 7.014,-0.973 9.949,-2.651 v 52.195 c 0,3.71 4.376,5.475 6.529,5.475 9.833,0 36.067,2.016 36.067,27.944 V -8.051 C 9.63,-3.745 5.467,0 0,0" /></g><g
+           transform="translate(306,234.208)"
+           id="g24"><path
+             id="path26"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 c -6.101,0 -11.047,4.946 -11.047,11.047 0,6.101 4.946,11.047 11.047,11.047 6.101,0 11.047,-4.946 11.047,-11.047 C 11.047,4.946 6.101,0 0,0 m -9.949,28.489 c -6.055,-3.462 -10.144,-9.968 -10.144,-17.442 0,-11.097 8.996,-20.093 20.093,-20.093 11.097,0 20.093,8.996 20.093,20.093 0,7.474 -4.089,13.98 -10.144,17.442 -2.935,1.678 -6.326,2.652 -9.949,2.652 -3.624,0 -7.014,-0.974 -9.949,-2.652" /></g></g></g></g></svg>
