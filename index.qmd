@@ -1,7 +1,41 @@
----
-title: "Elijah Pivo"
----
+::: {.profile-layout}
 
-This is a Quarto website.
+::: {.profile-sidebar}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<img src="images/headshot.jpg" alt="Portrait of Elijah Pivo" class="profile-photo">
+
+### Elijah Pivo
+
+::: {.profile-identity}
+<span class="profile-tagline"><em>Analytics for Societal Systems</em></span><br>
+**Postdoctoral Associate**<br>
+MIT Sloan School of Management
+:::
+
+::: {.profile-links}
+
+![](images/icons/envelope-solid-full.svg){.profile-icon} [epivo@mit.edu](mailto:epivo@mit.edu)
+
+![](images/icons/linkedin-brands-solid-full.svg){.profile-icon} [LinkedIn](https://www.linkedin.com/in/epivo/)
+
+![](images/icons/file-pdf-solid-full.svg){.profile-icon} [Download Public CV](files/Elijah_Pivo_CV_Web.pdf)
+
+:::
+
+:::
+
+::: {.profile-main}
+
+# Welcome
+
+Welcome to my personal website! I'm a researcher that uses computational methods like optimization and machine learning to address complex societal challenges. I recently completed my PhD at MIT's Institute for Data, Systems, and Society and I am now a postdoc at the MIT Sloan School of Management. I have been advised by Prof. Dimitris Bertsimas for both. Since starting my PhD, my main focus has been the U.S. organ transplant system. Thank you for visiting my website and please feel free to reach out through LinkedIn or email if you'd like to connect!
+
+## Publications
+- "Modernizing the Design Process for US
+Organ Allocation Policy: Toward a Continuous
+Distribution Policy for Kidneys." **Elijah Pivo**, James Alcorn, Dimitris Bertsimas, Sarah E. Booker, Keighy Bradbrook, Thomas G. Dolan, Lindsay V. Larkin, Kayla R. Temple, and Nikolaos Trichakis. *Transplantation Direct*, 11(9), e1780 (2025). ![](images/icons/file-pdf-solid-full.svg){.profile-icon} [PDF](files/publications/Modernizing_the_Design_Process_for_US_Organ_Allocation_Policy_Toward_a_Continuous_Distribution_Policy_for_Kidneys.pdf)
+- "Respect the Unstable: Delays and Saturation in Contact Tracing for Disease Control" Richard Pates, Andres Ferragut, **Elijah Pivo**, Pengcheng You, Fernando Paganini, and Enrique Mallada. *SIAM Journal on Control and Optimization*, 60(2), S196-S220 (2022). ![](images/icons/file-pdf-solid-full.svg){.profile-icon} [PDF](files/publications/Respect_the_Unstable_Delays_and_Saturation_in_Contact_Tracing_for_Disease_Control.pdf)
+
+:::
+
+:::
