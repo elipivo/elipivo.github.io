@@ -77,3 +77,8 @@
   display: block;
   text-align: center;
 }
+
+.nav-footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
