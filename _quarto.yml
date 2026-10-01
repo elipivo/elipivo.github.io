@@ -6,7 +6,7 @@ project:
 website:
   title: "Elijah Pivo"
   site-url: "https://elijahpivo.com"
-  favicon: images/logo.png
+  favicon: images/favicon.png
   search: false
   navbar:
     left:
@@ -24,6 +24,8 @@ format:
       - brand
     css: styles.css
     toc: true
+    grid:
+      body-width: 1800px
 
 
 
