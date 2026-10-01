@@ -8,6 +8,7 @@ website:
   site-url: "https://elijahpivo.com"
   favicon: images/favicon.png
   search: false
+  google-analytics: "G-EB62W4D5LV"
 
   page-footer:
     center: "© 2026 Elijah Pivo · [Email](mailto:epivo@mit.edu) · [LinkedIn](https://www.linkedin.com/in/epivo/)"
