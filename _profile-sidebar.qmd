@@ -1,0 +1,28 @@
+::: {.profile-sidebar}
+
+<img
+  src="images/headshot.jpg"
+  alt="Portrait of Elijah Pivo"
+  class="profile-photo"
+  width="150"
+  height="150">
+
+### Elijah Pivo
+
+::: {.profile-identity}
+<span class="profile-tagline"><em>Analytics for Societal Systems</em></span><br>
+**Postdoctoral Associate**<br>
+MIT Sloan School of Management
+:::
+
+::: {.profile-links}
+
+![](images/icons/envelope-solid-full.svg){.profile-icon} [epivo@mit.edu](mailto:epivo@mit.edu)
+
+![](images/icons/linkedin-brands-solid-full.svg){.profile-icon} [LinkedIn](https://www.linkedin.com/in/epivo/)
+
+![](images/icons/file-pdf-solid-full.svg){.profile-icon} [Curriculum Vitae](files/Elijah_Pivo_CV_Web.pdf)
+
+:::
+
+:::

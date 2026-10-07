@@ -1,0 +1,24 @@
+---
+toc: false
+page-layout: full
+---
+
+::: {.profile-layout}
+
+{{< include _profile-sidebar.qmd >}}
+
+::: {.profile-main}
+
+# Publications
+
+- (Working Paper) “Addressing Geographic Access Disparities Under Time-Sensitive Logistics in Kidney Transplantation.” **Elijah Pivo**, Thomas Athey, Nikolaos Trichakis, and Dimitris Bertsimas. *In preparation for Management Science.* ![](images/icons/file-pdf-solid-full.svg){.profile-icon} [PDF](files/working_papers/Pivo_Kidney_Geography_Paper__Preprint.pdf)
+
+- (Working Paper) “Optimization-Based Design of Organ Allocation Policy: Mitigating Biological Access Disparities in Lung Transplantation.” Thomas Athey, **Elijah Pivo**, Keighly Bradbrook, Kaitlin Swanner, Matthew Hartwig, Dennis Lyu, Marie Budev, Nikolaos Trichakis, and Dimitris Bertsimas. *In preparation for American Journal of Transplantation.* ![](images/icons/file-pdf-solid-full.svg){.profile-icon} [PDF](files/working_papers/Pivo_Lung_ABOChestSize_Paper__Preprint.pdf)
+
+- “Modernizing the Design Process for U.S. Organ Allocation Policy: Toward a Continuous Distribution Policy for Kidneys.” **Elijah Pivo**, James Alcorn, Dimitris Bertsimas, Sarah E. Booker, Keighly Bradbrook, Thomas G. Dolan, Lindsay V. Larkin, Kayla R. Temple, and Nikolaos Trichakis. *Transplantation Direct*, 11(9), e1780 (2025). ![](images/icons/file-pdf-solid-full.svg){.profile-icon} [PDF](files/publications/Modernizing_the_Design_Process_for_US_Organ_Allocation_Policy_Toward_a_Continuous_Distribution_Policy_for_Kidneys.pdf)
+
+- “Respect the Unstable: Delays and Saturation in Contact Tracing for Disease Control.” Richard Pates, Andres Ferragut, **Elijah Pivo**, Pengcheng You, Fernando Paganini, and Enrique Mallada. *SIAM Journal on Control and Optimization*, 60(2), S196–S220 (2022). ![](images/icons/file-pdf-solid-full.svg){.profile-icon} [PDF](files/publications/Respect_the_Unstable_Delays_and_Saturation_in_Contact_Tracing_for_Disease_Control.pdf)
+
+:::
+
+:::
