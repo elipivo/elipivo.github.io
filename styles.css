@@ -16,7 +16,7 @@
   line-height: 1.35;
 
   position: sticky;
-  top: 1.5rem;
+  top: 5rem;
   align-self: start;
 }
 
@@ -194,4 +194,12 @@
     grid-template-columns: 1fr;
     gap: 1.25rem;
   }
+}
+
+/* Limit the size of images in the lightbox */
+.glightbox-container .gslide-image img {
+  max-width: 60vw !important;
+  max-height: 60vh !important;
+  width: auto;
+  height: auto;
 }

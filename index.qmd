@@ -1,6 +1,7 @@
 ---
 toc: false
 page-layout: full
+lightbox: true
 ---
 
 ::: {.profile-layout}
@@ -20,7 +21,28 @@ Welcome to my personal website! I'm a researcher interested in using computation
 ::: {.research-card}
 
 ::: {.research-card-visual}
-[![](images/projects/allocation_policy_simulation.png){.research-card-image fig-alt="Diagram showing an organ allocation policy with adjustable priorities being evaluated through computer simulation to predict effects on waitlist mortality, organ utilization, and pediatric access."}](files/publications/Modernizing_the_Design_Process_for_US_Organ_Allocation_Policy_Toward_a_Continuous_Distribution_Policy_for_Kidneys.pdf)
+![](images/card_images/heals_symposium.jpg){.research-card-image fig-alt="Elijah Pivo speaking at the 2026 Annual HEALS Symposium."}
+:::
+
+::: {.research-card-body}
+<span class="research-card-status">Symposium presentation · 2026</span>
+
+### 2026 MIT HEALS Symposium
+
+I presented my research at the first annual MIT Health and Life Sciences (HEALS) symposium.
+
+::: {.research-card-action}
+[Watch the talk →](files/videos/heals_symposium_2026.mp4){.research-card-link}
+:::
+
+:::
+
+:::
+
+::: {.research-card}
+
+::: {.research-card-visual}
+![](images/card_images/allocation_policy_simulation.png){.research-card-image .lightbox fig-alt="Diagram showing an organ allocation policy with adjustable priorities being evaluated through computer simulation to predict effects on waitlist mortality, organ utilization, and pediatric access."}
 :::
 
 ::: {.research-card-body}
@@ -41,15 +63,15 @@ This work develops a new algorithm that reduces simulation runtimes from hours t
 ::: {.research-card}
 
 ::: {.research-card-visual}
-[![](images/projects/kidney-geography.png){.research-card-image fig-alt="Map illustrating geographic access and time-sensitive kidney transportation."}](files/working_papers/Pivo_Kidney_Geography_Paper__Preprint.pdf)
+![](images/card_images/kidney_transportation_route.png){.research-card-image fig-alt="Map illustrating geographic access and time-sensitive kidney transportation."}
 :::
 
 ::: {.research-card-body}
 <span class="research-card-status">Working paper</span>
 
-### Geographic Access in Kidney Transplantation
+### Addressing Geographic Disparities in Kidney Transplantation
 
-How can organ transportation and allocation policies improve access to transplantation when time-sensitive logistics constrain how far donated kidneys can travel?
+How can we provide consistent access to transplantation across the United States when time-sensitive logistics constrain how far donated kidneys can travel?
 
 ::: {.research-card-action}
 [Read the paper →](files/working_papers/Pivo_Kidney_Geography_Paper__Preprint.pdf){.research-card-link}
@@ -62,39 +84,18 @@ How can organ transportation and allocation policies improve access to transplan
 ::: {.research-card}
 
 ::: {.research-card-visual}
-[![](images/projects/lung-allocation.png){.research-card-image fig-alt="Illustration of organ allocation decisions in lung transplantation."}](files/working_papers/Pivo_Lung_ABOChestSize_Paper__Preprint.pdf)
+![](images/card_images/lung_optimization.png){.research-card-image fig-alt="Illustration of organ allocation decisions in lung transplantation."}
 :::
 
 ::: {.research-card-body}
 <span class="research-card-status">Working paper</span>
 
-### Lung Allocation and Biological Access
+### Mitigating the Effects of Physiology on Access to Lung Transplantation
 
-This project develops optimization-based approaches to organ-allocation policy that mitigate biological disparities in access to lung transplantation.
+In this project, we introduce new optimization techniques to help policymakers compensate for a patient's blood type and chest cavity size.
 
 ::: {.research-card-action}
 [Read the paper →](files/working_papers/Pivo_Lung_ABOChestSize_Paper__Preprint.pdf){.research-card-link}
-:::
-
-:::
-
-:::
-
-::: {.research-card}
-
-::: {.research-card-visual}
-[![](images/projects/contact-tracing.png){.research-card-image fig-alt="Chart showing the effects of delays and capacity saturation in contact tracing."}](files/publications/Respect_the_Unstable_Delays_and_Saturation_in_Contact_Tracing_for_Disease_Control.pdf)
-:::
-
-::: {.research-card-body}
-<span class="research-card-status">Published · 2022</span>
-
-### Delays and Saturation in Contact Tracing
-
-This work studies how operational delays and limited tracing capacity can destabilize disease-control systems and undermine public-health interventions.
-
-::: {.research-card-action}
-[Read the article →](files/publications/Respect_the_Unstable_Delays_and_Saturation_in_Contact_Tracing_for_Disease_Control.pdf){.research-card-link}
 :::
 
 :::
