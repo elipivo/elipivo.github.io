@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Analytics for Societal Systems Postdoctoral Associate MIT Sloan School of Management\n\n\n epivo@mit.edu\n LinkedIn\n Curriculum Vitae\n\n\n\n\n\nWelcome to my personal website! I’m a researcher that uses computational methods like optimization and machine learning to address complex societal challenges. I recently completed my PhD at MIT’s Institute for Data, Systems, and Society and I am now a postdoc at the MIT Sloan School of Management. I have been advised by Prof. Dimitris Bertsimas for both. Since starting my PhD, my main focus has been the U.S. organ transplant system. Thank you for visiting my website and please feel free to reach out through LinkedIn or email if you’d like to connect!\n\n\n\n(Working Paper) “Addressing Geographic Access Disparities Under Time-Sensitive Logistics in Kidney Transplantation.” Elijah Pivo, Thomas Athey, Nikolaos Trichakis, and Dimitris Bertsimas. In preparation for Management Science.  PDF\n(Working Paper) “Optimization-Based Design of Organ Allocation Policy: Mitigating Biological Access Disparities in Lung Transplantation.” Thomas Athey, Elijah Pivo, Keighly Bradbrook, Kaitlin Swanner, Matthew Hartwig, Dennis Lyu, Marie Budev, Nikolaos Trichakis, and Dimitris Bertsimas. In preparation for American Journal of Transplantation  PDF\n“Modernizing the Design Process for US Organ Allocation Policy: Toward a Continuous Distribution Policy for Kidneys.” Elijah Pivo, James Alcorn, Dimitris Bertsimas, Sarah E. Booker, Keighy Bradbrook, Thomas G. Dolan, Lindsay V. Larkin, Kayla R. Temple, and Nikolaos Trichakis. Transplantation Direct, 11(9), e1780 (2025).  PDF\n“Respect the Unstable: Delays and Saturation in Contact Tracing for Disease Control” Richard Pates, Andres Ferragut, Elijah Pivo, Pengcheng You, Fernando Paganini, and Enrique Mallada. SIAM Journal on Control and Optimization, 60(2), S196-S220 (2022).  PDF"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Welcome",
-    "section": "",
-    "text": "(Working Paper) “Addressing Geographic Access Disparities Under Time-Sensitive Logistics in Kidney Transplantation.” Elijah Pivo, Thomas Athey, Nikolaos Trichakis, and Dimitris Bertsimas. In preparation for Management Science.  PDF\n(Working Paper) “Optimization-Based Design of Organ Allocation Policy: Mitigating Biological Access Disparities in Lung Transplantation.” Thomas Athey, Elijah Pivo, Keighly Bradbrook, Kaitlin Swanner, Matthew Hartwig, Dennis Lyu, Marie Budev, Nikolaos Trichakis, and Dimitris Bertsimas. In preparation for American Journal of Transplantation  PDF\n“Modernizing the Design Process for US Organ Allocation Policy: Toward a Continuous Distribution Policy for Kidneys.” Elijah Pivo, James Alcorn, Dimitris Bertsimas, Sarah E. Booker, Keighy Bradbrook, Thomas G. Dolan, Lindsay V. Larkin, Kayla R. Temple, and Nikolaos Trichakis. Transplantation Direct, 11(9), e1780 (2025).  PDF\n“Respect the Unstable: Delays and Saturation in Contact Tracing for Disease Control” Richard Pates, Andres Ferragut, Elijah Pivo, Pengcheng You, Fernando Paganini, and Enrique Mallada. SIAM Journal on Control and Optimization, 60(2), S196-S220 (2022).  PDF"
+    "text": "Elijah Pivo\n\nAnalytics for Societal Systems Postdoctoral Associate MIT Sloan School of Management\n\n\n epivo@mit.edu\n LinkedIn\n Curriculum Vitae\n\n\n\n\nPublications\n\n(Working Paper) “Addressing Geographic Access Disparities Under Time-Sensitive Logistics in Kidney Transplantation.” Elijah Pivo, Thomas Athey, Nikolaos Trichakis, and Dimitris Bertsimas. In preparation for Management Science.  PDF\n(Working Paper) “Optimization-Based Design of Organ Allocation Policy: Mitigating Biological Access Disparities in Lung Transplantation.” Thomas Athey, Elijah Pivo, Keighly Bradbrook, Kaitlin Swanner, Matthew Hartwig, Dennis Lyu, Marie Budev, Nikolaos Trichakis, and Dimitris Bertsimas. In preparation for American Journal of Transplantation.  PDF\n“Modernizing the Design Process for U.S. Organ Allocation Policy: Toward a Continuous Distribution Policy for Kidneys.” Elijah Pivo, James Alcorn, Dimitris Bertsimas, Sarah E. Booker, Keighly Bradbrook, Thomas G. Dolan, Lindsay V. Larkin, Kayla R. Temple, and Nikolaos Trichakis. Transplantation Direct, 11(9), e1780 (2025).  PDF\n“Respect the Unstable: Delays and Saturation in Contact Tracing for Disease Control.” Richard Pates, Andres Ferragut, Elijah Pivo, Pengcheng You, Fernando Paganini, and Enrique Mallada. SIAM Journal on Control and Optimization, 60(2), S196–S220 (2022).  PDF"
   },
   {
     "objectID": "about.html",
@@ -19,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Analytics for Societal Systems Postdoctoral Associate MIT Sloan School of Management\n\n\n epivo@mit.edu\n LinkedIn\n Curriculum Vitae\n\n\n\n\n\nWelcome to my personal website! I’m a researcher interested in using computational methods like optimization, simulation, and machine learning to address complex societal challenges. I recently completed my PhD at MIT’s Institute for Data, Systems, and Society and I am now a postdoc at the MIT Sloan School of Management. I’ve been advised by Professor Dimitris Bertsimas for both. Since starting my PhD, my main focus has been the U.S. organ transplant system. Thank you for visiting my website and please feel free to reach out through LinkedIn or email!\n\n\n\n\n\n\n\n\nSymposium presentation · 2026\n\n\nI presented my research at the first annual MIT Health and Life Sciences (HEALS) symposium.\n\n Watch the talk → \n\n\n\n\n\n\n\n\n\nPublished · 2025\n\n\nThis work develops a new algorithm that reduces simulation runtimes from hours to seconds, easing a critical bottleneck in national policymaking.\n\nRead the article →\n\n\n\n\n\n\n\n\n\nWorking paper\n\n\nHow can we provide consistent access to transplantation across the United States when time-sensitive logistics constrain how far donated kidneys can travel?\n\nRead the paper →\n\n\n\n\n\n\n\n\n\nWorking paper\n\n\nIn this project, we introduce new optimization techniques to help policymakers compensate for a patient’s blood type and chest cavity size.\n\nRead the paper →"
+  },
+  {
+    "objectID": "index.html#research-highlights",
+    "href": "index.html#research-highlights",
+    "title": "Welcome",
+    "section": "",
+    "text": "Symposium presentation · 2026\n\n\nI presented my research at the first annual MIT Health and Life Sciences (HEALS) symposium.\n\n Watch the talk → \n\n\n\n\n\n\n\n\n\nPublished · 2025\n\n\nThis work develops a new algorithm that reduces simulation runtimes from hours to seconds, easing a critical bottleneck in national policymaking.\n\nRead the article →\n\n\n\n\n\n\n\n\n\nWorking paper\n\n\nHow can we provide consistent access to transplantation across the United States when time-sensitive logistics constrain how far donated kidneys can travel?\n\nRead the paper →\n\n\n\n\n\n\n\n\n\nWorking paper\n\n\nIn this project, we introduce new optimization techniques to help policymakers compensate for a patient’s blood type and chest cavity size.\n\nRead the paper →"
   }
 ]

@@ -42,6 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-c43d49efb0aefaa9bb5dc20be4588da5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -91,6 +94,10 @@ gtag('config', 'G-EB62W4D5LV', { 'anonymize_ip': true});
     <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -99,21 +106,19 @@ gtag('config', 'G-EB62W4D5LV', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
 <div class="profile-layout">
 <div class="profile-sidebar">
-<p><img src="images/headshot.jpg" alt="Portrait of Elijah Pivo" class="profile-photo"></p>
+<p><img src="images/headshot.jpg" alt="Portrait of Elijah Pivo" class="profile-photo" width="150" height="150"></p>
 <section id="elijah-pivo" class="level3">
 <h3 class="anchored" data-anchor-id="elijah-pivo">Elijah Pivo</h3>
 <div class="profile-identity">
@@ -128,18 +133,99 @@ gtag('config', 'G-EB62W4D5LV', { 'anonymize_ip': true});
 </div>
 <section id="welcome" class="level1 profile-main">
 <h1>Welcome</h1>
-<p>Welcome to my personal website! I’m a researcher that uses computational methods like optimization and machine learning to address complex societal challenges. I recently completed my PhD at MIT’s Institute for Data, Systems, and Society and I am now a postdoc at the MIT Sloan School of Management. I have been advised by Prof.&nbsp;Dimitris Bertsimas for both. Since starting my PhD, my main focus has been the U.S. organ transplant system. Thank you for visiting my website and please feel free to reach out through LinkedIn or email if you’d like to connect!</p>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<ul>
-<li>(Working Paper) “Addressing Geographic Access Disparities Under Time-Sensitive Logistics in Kidney Transplantation.” <strong>Elijah Pivo</strong>, Thomas Athey, Nikolaos Trichakis, and Dimitris Bertsimas. <em>In preparation for Management Science</em>. <img src="images/icons/file-pdf-solid-full.svg" class="profile-icon img-fluid"> <a href="files/working_papers/Pivo_Kidney_Geography_Paper__Preprint.pdf">PDF</a></li>
-<li>(Working Paper) “Optimization-Based Design of Organ Allocation Policy: Mitigating Biological Access Disparities in Lung Transplantation.” Thomas Athey, <strong>Elijah Pivo</strong>, Keighly Bradbrook, Kaitlin Swanner, Matthew Hartwig, Dennis Lyu, Marie Budev, Nikolaos Trichakis, and Dimitris Bertsimas. <em>In preparation for American Journal of Transplantation</em> <img src="images/icons/file-pdf-solid-full.svg" class="profile-icon img-fluid"> <a href="files/working_papers/Pivo_Lung_ABOChestSize_Paper__Preprint.pdf">PDF</a></li>
-<li>“Modernizing the Design Process for US Organ Allocation Policy: Toward a Continuous Distribution Policy for Kidneys.” <strong>Elijah Pivo</strong>, James Alcorn, Dimitris Bertsimas, Sarah E. Booker, Keighy Bradbrook, Thomas G. Dolan, Lindsay V. Larkin, Kayla R. Temple, and Nikolaos Trichakis. <em>Transplantation Direct</em>, 11(9), e1780 (2025). <img src="images/icons/file-pdf-solid-full.svg" class="profile-icon img-fluid"> <a href="files/publications/Modernizing_the_Design_Process_for_US_Organ_Allocation_Policy_Toward_a_Continuous_Distribution_Policy_for_Kidneys.pdf">PDF</a></li>
-<li>“Respect the Unstable: Delays and Saturation in Contact Tracing for Disease Control” Richard Pates, Andres Ferragut, <strong>Elijah Pivo</strong>, Pengcheng You, Fernando Paganini, and Enrique Mallada. <em>SIAM Journal on Control and Optimization</em>, 60(2), S196-S220 (2022). <img src="images/icons/file-pdf-solid-full.svg" class="profile-icon img-fluid"> <a href="files/publications/Respect_the_Unstable_Delays_and_Saturation_in_Contact_Tracing_for_Disease_Control.pdf">PDF</a></li>
-</ul>
+<p>Welcome to my personal website! I’m a researcher interested in using computational methods like optimization, simulation, and machine learning to address complex societal challenges. I recently completed my PhD at MIT’s Institute for Data, Systems, and Society and I am now a postdoc at the MIT Sloan School of Management. I’ve been advised by Professor Dimitris Bertsimas for both. Since starting my PhD, my main focus has been the U.S. organ transplant system. Thank you for visiting my website and please feel free to reach out through LinkedIn or email!</p>
+<section id="research-highlights" class="level2">
+<h2 class="anchored" data-anchor-id="research-highlights">Research Highlights</h2>
+<div class="research-grid">
+<div class="research-card">
+<div class="research-card-visual">
+<p><a href="images/card_images/heals_symposium.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/card_images/heals_symposium.jpg" class="research-card-image img-fluid" alt="Elijah Pivo speaking at the 2026 Annual HEALS Symposium."></a></p>
+</div>
+<div class="research-card-body">
+<p><span class="research-card-status">Symposium presentation · 2026</span></p>
+<section id="mit-heals-symposium" class="level3">
+<h3 class="anchored" data-anchor-id="mit-heals-symposium">2026 MIT HEALS Symposium</h3>
+<p>I presented my research at the first annual MIT Health and Life Sciences (HEALS) symposium.</p>
+<div class="research-card-action">
+<p><a href="#healsVideoModal" class="research-card-link" data-bs-toggle="modal" data-bs-target="#healsVideoModal"> Watch the talk → </a></p>
+</div>
+</section>
+</div>
+</div>
+<div class="research-card">
+<div class="research-card-visual">
+<p><a href="images/card_images/allocation_policy_simulation.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/card_images/allocation_policy_simulation.png" class="research-card-image img-fluid" alt="Diagram showing an organ allocation policy with adjustable priorities being evaluated through computer simulation to predict effects on waitlist mortality, organ utilization, and pediatric access."></a></p>
+</div>
+<div class="research-card-body">
+<p><span class="research-card-status">Published · 2025</span></p>
+<section id="high-speed-simulation-of-the-u.s.-organ-transplant-system" class="level3">
+<h3 class="anchored" data-anchor-id="high-speed-simulation-of-the-u.s.-organ-transplant-system">High-Speed Simulation of the U.S. Organ Transplant System</h3>
+<p>This work develops a new algorithm that reduces simulation runtimes from hours to seconds, easing a critical bottleneck in national policymaking.</p>
+<div class="research-card-action">
+<p><a href="files/publications/Modernizing_the_Design_Process_for_US_Organ_Allocation_Policy_Toward_a_Continuous_Distribution_Policy_for_Kidneys.pdf" class="research-card-link">Read the article →</a></p>
+</div>
+</section>
+</div>
+</div>
+<div class="research-card">
+<div class="research-card-visual">
+<p><a href="images/card_images/kidney_transportation_route.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="images/card_images/kidney_transportation_route.png" class="research-card-image img-fluid" alt="Map illustrating geographic access and time-sensitive kidney transportation."></a></p>
+</div>
+<div class="research-card-body">
+<p><span class="research-card-status">Working paper</span></p>
+<section id="addressing-geographic-disparities-in-kidney-transplantation" class="level3">
+<h3 class="anchored" data-anchor-id="addressing-geographic-disparities-in-kidney-transplantation">Addressing Geographic Disparities in Kidney Transplantation</h3>
+<p>How can we provide consistent access to transplantation across the United States when time-sensitive logistics constrain how far donated kidneys can travel?</p>
+<div class="research-card-action">
+<p><a href="files/working_papers/Pivo_Kidney_Geography_Paper__Preprint.pdf" class="research-card-link">Read the paper →</a></p>
+</div>
+</section>
+</div>
+</div>
+<div class="research-card">
+<div class="research-card-visual">
+<p><a href="images/card_images/lung_optimization.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="images/card_images/lung_optimization.png" class="research-card-image img-fluid" alt="Illustration of organ allocation decisions in lung transplantation."></a></p>
+</div>
+<div class="research-card-body">
+<p><span class="research-card-status">Working paper</span></p>
+<section id="mitigating-the-effects-of-physiology-on-access-to-lung-transplantation" class="level3">
+<h3 class="anchored" data-anchor-id="mitigating-the-effects-of-physiology-on-access-to-lung-transplantation">Mitigating the Effects of Physiology on Access to Lung Transplantation</h3>
+<p>In this project, we introduce new optimization techniques to help policymakers compensate for a patient’s blood type and chest cavity size.</p>
+<div class="research-card-action">
+<p><a href="files/working_papers/Pivo_Lung_ABOChestSize_Paper__Preprint.pdf" class="research-card-link">Read the paper →</a></p>
+</div>
+</section>
+</div>
+</div>
+</div>
 </section>
 </section>
 </div>
+<div class="modal fade" id="healsVideoModal" tabindex="-1" aria-labelledby="healsVideoModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title fs-5 anchored" id="healsVideoModalLabel">
+          2026 MIT HEALS Symposium
+        </h2>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body p-0">
+        <div class="video-modal-player">
+            <iframe src="https://player.vimeo.com/video/1174004768?autoplay=1#t=2h43m25s" title="Elijah Pivo speaking at the 2026 MIT HEALS Symposium" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="">
+            </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const healsModal = document.getElementById("healsVideoModal");
+  if (healsModal) {
+    document.body.appendChild(healsModal);
+  }
+</script>
 
 
 
@@ -558,6 +644,38 @@ gtag('config', 'G-EB62W4D5LV', { 'anonymize_ip': true});
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
