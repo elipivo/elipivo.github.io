@@ -29,7 +29,7 @@ Welcome to my personal website! I'm a researcher interested in using computation
 
 ### 2026 MIT HEALS Symposium
 
-I presented my research at the first annual MIT Health and Life Sciences (HEALS) symposium.
+I presented my research at the first annual [MIT Health and Life Sciences (HEALS)](https://heals.mit.edu/){target="_blank" rel="noopener"} symposium.
 
 ::: {.research-card-action}
 <a href="#healsVideoModal"
