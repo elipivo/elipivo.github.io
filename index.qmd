@@ -128,7 +128,7 @@ In this project, we introduce new optimization techniques to help policymakers c
       <div class="modal-body p-0">
         <div class="video-modal-player">
             <iframe
-            src="https://player.vimeo.com/video/1174004768?autoplay=1#t=2h43m25s"
+            data-src="https://player.vimeo.com/video/1174004768?autoplay=1#t=2h43m25s"
             title="Elijah Pivo speaking at the 2026 MIT HEALS Symposium"
             allow="autoplay; fullscreen; picture-in-picture"
             allowfullscreen>
@@ -141,8 +141,18 @@ In this project, we introduce new optimization techniques to help policymakers c
 
 <script>
   const healsModal = document.getElementById("healsVideoModal");
-  if (healsModal) {
+  const healsVideo = healsModal?.querySelector("iframe");
+
+  if (healsModal && healsVideo) {
     document.body.appendChild(healsModal);
+
+    healsModal.addEventListener("shown.bs.modal", () => {
+      healsVideo.src = healsVideo.dataset.src;
+    });
+
+    healsModal.addEventListener("hidden.bs.modal", () => {
+      healsVideo.src = "about:blank";
+    });
   }
 </script>
 ```
