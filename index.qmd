@@ -12,7 +12,7 @@ lightbox: true
 
 # Welcome
 
-Welcome to my personal website! I'm a researcher interested in using computational methods like optimization, simulation, and machine learning to address complex societal challenges. I recently completed my PhD at MIT's Institute for Data, Systems, and Society and I am now a postdoc at the MIT Sloan School of Management. I've been advised by Professor Dimitris Bertsimas for both. Since starting my PhD, my main focus has been the U.S. organ transplant system. Thank you for visiting my website and please feel free to reach out through LinkedIn or email if you'd like to connect!
+Welcome to my personal website! I'm a researcher interested in using computational methods like optimization, simulation, and machine learning to address complex societal challenges. I recently completed my PhD at MIT's Institute for Data, Systems, and Society and I am now a postdoc at the MIT Sloan School of Management. I've been advised by Professor Dimitris Bertsimas for both. Since starting my PhD, my main focus has been the U.S. organ transplant system. Thank you for visiting my website and please feel free to reach out through LinkedIn or email!
 
 ## Research Highlights
 
@@ -32,7 +32,12 @@ Welcome to my personal website! I'm a researcher interested in using computation
 I presented my research at the first annual MIT Health and Life Sciences (HEALS) symposium.
 
 ::: {.research-card-action}
-[Watch the talk →](files/videos/heals_symposium_2026.mp4){.research-card-link}
+<a href="#healsVideoModal"
+   class="research-card-link"
+   data-bs-toggle="modal"
+   data-bs-target="#healsVideoModal">
+  Watch the talk →
+</a>
 :::
 
 :::
@@ -107,3 +112,37 @@ In this project, we introduce new optimization techniques to help policymakers c
 :::
 
 :::
+
+```{=html}
+<div class="modal fade" id="healsVideoModal" tabindex="-1"
+     aria-labelledby="healsVideoModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title fs-5" id="healsVideoModalLabel">
+          2026 MIT HEALS Symposium
+        </h2>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"
+                aria-label="Close"></button>
+      </div>
+      <div class="modal-body p-0">
+        <div class="video-modal-player">
+            <iframe
+            src="https://player.vimeo.com/video/1174004768?autoplay=1#t=2h43m25s"
+            title="Elijah Pivo speaking at the 2026 MIT HEALS Symposium"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen>
+            </iframe>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  const healsModal = document.getElementById("healsVideoModal");
+  if (healsModal) {
+    document.body.appendChild(healsModal);
+  }
+</script>
+```
